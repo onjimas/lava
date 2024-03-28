@@ -264,3 +264,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x587dea7ca"}
 {"error":"{\"Error_GUID\":\"331695177773757039\",\"Error\":\"Failed all retries {GUID:331695177773757039,error:rpc error: code = Unknown desc = Failed to VerifyPairing for new consumer {Error:post failed: Post \\\"http://localhost:26657\\\": dial tcp 127.0.0.1:26657: connect: cannot assign requested address,GUID:331695177773757039,sessionID:8712745162557042873,consumer:lava@1mh9d3vdthekxvc0aflnvzhurv2585aakzs9e3a,provider:lava@1z28m49gczdtmqfdxkfdhnxpcmfmk3qmtlv5y0x,relayNum:2,Providers block:978420},chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x539ef4e27"}
+{"jsonrpc":"2.0","id":1,"result":"0x593ecdc75"}
